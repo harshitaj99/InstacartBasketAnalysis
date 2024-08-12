@@ -31,5 +31,5 @@ The project files are stored in following folder structure:
 - 04 Analysis: The Visualizations subfolder contains the visualizations used for developing and explaining insights.
 - 05 Sent to Client: The final report presented in Excel
 # Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the Final Project PDF as well as the Instacart Basket Analysis 2-2024 zip containing all data sets, graphs, and reports.
+For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF]("C:\Users\Harshita\Documents\Career Foundry\Achievement 4\07-2024 Instacart Basket Analysis 2\07-2024 Instacart Basket Analysis\05 Sent to Client\Task_4.10_A4_final_report_Instacart.xlsx") 
 This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
